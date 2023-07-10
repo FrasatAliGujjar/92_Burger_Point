@@ -1,0 +1,189 @@
+.main {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.box_main {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    /* border: 2px solid darkblue; */
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.heading_div {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    /* border: 2px solid darkgreen; */
+    border-radius: 10px;
+    height: 50px;
+    /* background-color: darkcyan; */
+    text-align: center;
+}
+
+.box_inner {
+
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    margin-top: 10px;
+    height: auto;
+
+}
+
+.box_inner_heading {
+    margin-top: 10px;
+    /* border: 2px solid green; */
+    border-radius: 10px;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.box_inner_image {
+    /* border: 2px solid blue; */
+    border-radius: 10px;
+    height: 300px;
+    margin-top: 3px;
+    background-color: white;
+}
+
+.box_inner_left_btn {
+    margin-top: 5px;
+    border: 2px solid red;
+    background-color: white;
+    color: maroon;
+    border-radius: 20px;
+    padding: 0px 5px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px white;
+
+}
+
+.box_inner_left_btn:hover {
+    margin-top: 5px;
+    border: 2px solid red;
+    background-color: white;
+    color: maroon;
+    border-radius: 20px;
+    padding: 0px 5px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px yellow;
+
+}
+
+
+.box_inner_right_btn {
+    margin-top: 5px;
+    border: 2px solid red;
+    background-color: white;
+    color: maroon;
+    border-radius: 20px;
+    padding: 0px 5px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px white;
+}
+
+.box_inner_right_btn:hover {
+    margin-top: 5px;
+    border: 2px solid red;
+    background-color: white;
+    color: maroon;
+    border-radius: 20px;
+    padding: 0px 5px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 2px 2px 10px yellow;
+}
+
+/* =================================================  */
+
+.home_burger_main_div {
+    background-color: maroon;
+    border-radius: 20px;
+}
+
+
+.home_burger_heading_top {
+    color: white;
+    font-size: 50px;
+    font-weight: 100px;
+    direction: ltr;
+    font-family: Alvi;
+    /* text-shadow: 5px 5px 5px yellow; */
+}
+
+.home_burger_heading_1 {
+    color: wheat;
+    font-size: 30px;
+    direction: rtl;
+    font-family: Alvi;
+    /* text-shadow: 5px 5px 5px yellow; */
+}
+
+.home_burger_heading_1:hover {
+    color: yellow;
+    font-size: 30px;
+    direction: rtl;
+    font-family: Alvi;
+    text-shadow: 5px 5px 5px white;
+}
+
+.items_image {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+
+
+
+
+.home_shawarma_heading_top {
+    color: white;
+    font-size: 45px;
+    font-weight: 100px;
+    direction: ltr;
+    font-family: Alvi;
+    /* text-shadow: 5px 5px 5px yellow; */
+}
+
+.home_pratha_heading_top {
+    color: white;
+    font-size: 40px;
+    font-weight: 100px;
+    direction: ltr;
+    font-family: Alvi;
+}
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}
